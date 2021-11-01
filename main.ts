@@ -1,6 +1,6 @@
 let x: number = 5;
 let word: string
-word = 5
+word = "hello"
 
 console.log(x)
 console.log(word)
